@@ -1,2 +1,1 @@
-# JAVA
-This is a simple calculator program written in java
+
